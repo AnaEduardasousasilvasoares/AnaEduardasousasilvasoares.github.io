@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+    color: #e6c76b;
+    font-family: Arial;
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 48px;
+}
+
+h3{
+    font-size: 44px;
+}
+
+img{
+    width: 420px;
+    margin: 15px;
+}
+
+p{
+    font-size: 40px;
+    width: 650px;
+    margin: auto;
+}
+
+a{
+    color: #e6c76b;
+    font-size: 38px;
+}
+
+.intro{
+    font-size: 38px;
+    width: 650px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+blockquote{
+    font-style: italic;
+    font-size: 36px;
+    width: 650px;
+    margin: auto;
+    margin-top: 15px;
+}
