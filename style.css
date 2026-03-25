@@ -50,7 +50,7 @@ blockquote{
 
 
 button {
-    background-color: #6c63ff;
+    background-color: #e6c76b;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -60,7 +60,7 @@ button {
 }
 
 button:hover {
-    background-color: #4e47cc;
+    background-color: #e6c76b;
 }
 
 table {
@@ -75,5 +75,5 @@ th, td {
 }
 
 th {
-    background-color: #f2f2f2;
+    background-color: #e6c76b;
 }
