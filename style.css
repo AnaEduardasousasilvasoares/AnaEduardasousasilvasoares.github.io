@@ -53,27 +53,21 @@ button {
     background-color: #e6c76b;
     color: black;
     border: none;
-    padding: 10px 20px;
-    font-size: 16px;
-    border-radius: 8px;
-    cursor: pointer;
-}
-
-button:hover {
-    background-color: #e6c76b;
+    padding: 15px 30px;
+    font-size: 22px;
 }
 
 table {
     border-collapse: collapse;
-    width: 100%;
+    font-size: 22px;
 }
 
 th, td {
-    border: 1px #e6c76b;
+    border: 1px solid #e6c76b;
     padding: 8px;
-    text-align: left;
 }
 
 th {
     background-color: #e6c76b;
+    color: black;
 }
